@@ -1,11 +1,10 @@
+# GreenHouse - Houseplants Store
 
-  # Little Lemon Website Design
+This is a minimal React + Vite project for the houseplants assignment.
 
-  This is a code bundle for Little Lemon Website Design. The original project is available at https://www.figma.com/design/h2hT8lnz6gDwdDr76u0k4y/Little-Lemon-Website-Design.
+How to run:
+1. Install node (v16+ recommended) and npm.
+2. Install deps: `npm install`
+3. Run dev server: `npm run dev`
 
-  ## Running the code
-
-  Run `npm i` to install the dependencies.
-
-  Run `npm run dev` to start the development server.
-  
+This zip contains a working React app (no images external dependencies). Replace or add images in public/assets/images if you want photos.
